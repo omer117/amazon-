@@ -1,0 +1,75 @@
+.navbar-brand {
+    margin: 0 16px 0 16px;
+}
+
+
+.header1 {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    /* background-color: black; */
+}
+
+.amazonImg {
+    width: 100px;
+    height: 49px;
+}
+
+.bigSearch {
+    padding: 5px;
+    width: 710px;
+    height: 40px;
+    margin: 2px;
+}
+
+.btnn {
+    height: 40px;
+    width: 40px;
+}
+
+.flex1 {
+    display: flex;
+    justify-content: space-between;
+    width: max-content;
+    height: max-content;
+    margin: 0;
+}
+.h-ones{
+    width: 400px;
+    height: 400px;
+}
+
+.bigImg {
+    width: 400px;
+    height: 400px;
+    margin: 30px 0 30px 0;
+}
+
+.Pricieng {
+    background-color: antiquewhite;
+    height: 700px;
+    width: 300px;
+}
+
+.xsmallTxt{
+    font-size: smaller;
+}
+.mdTxt{
+font-size: medium;
+}
+
+.gt{
+    background-color: #7fda69;
+}
+.orngd{
+    background-color: orange;
+}
+.anc{
+    text-decoration: none;
+}
+
+h2 {
+    font-size: large;
+    font-weight: bold;
+}
